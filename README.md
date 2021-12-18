@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Typescript, JavaScript, Python
+- 🌱 I’m currently learning JavaScript and Python
 - 😄 Pronouns: she/her 🏳️‍🌈 
 
 <div>
