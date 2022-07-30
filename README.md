@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently studying Data Science and Web Development  
 - 😄 Pronouns: she/her 🏳️‍🌈 
 
 <div>
