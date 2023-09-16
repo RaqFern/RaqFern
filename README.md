@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying Data Science and Software Development on my journey to master Java  
+- 🌱 I’m currently studying Software Development, on my journey to master Java  
 - 😄 Pronouns: she/her 🏳️‍🌈 
 
 ##
